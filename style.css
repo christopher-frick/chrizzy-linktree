@@ -13,7 +13,7 @@ body {
     padding: 0;
     min-height: 100vh;
     font-family: var(--font);
-    background: url(./images/3_LITHIUM_COVER.jpg)  no-repeat left center;
+    background: url(./images/3_LITHIUM_COVER.jpg)  no-repeat center;
     /*background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);*/
     /*background-image: url(./images/3_LITHIUM_COVER.jpg)  no-repeat left center;*/
     opacity: 0;
